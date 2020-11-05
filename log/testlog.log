@@ -1,0 +1,22 @@
+2020-11-02 18:36:08,961 - logger_file -INFO - Start of Execution
+2020-11-02 18:36:22,496 - logger_file -INFO - Browser opened successfully
+2020-11-02 18:36:22,503 - logger_file -INFO - Test Execution Started
+2020-11-02 18:37:07,757 - logger_file -INFO - Test was failed
+2020-11-02 18:37:07,758 - logger_file -INFO - method name: loginToHotel
+2020-11-02 18:37:10,546 - logger_file -INFO - Browser Closed
+2020-11-02 18:37:10,574 - logger_file -INFO - End of Execution
+2020-11-02 18:41:27,480 - logger_file -INFO - Start of Execution
+2020-11-02 18:41:36,401 - logger_file -INFO - Browser opened successfully
+2020-11-02 18:41:41,407 - logger_file -INFO - Test Execution Started
+2020-11-02 18:42:26,541 - logger_file -INFO - Test was failed
+2020-11-02 18:42:26,542 - logger_file -INFO - method name: loginToHotel
+2020-11-02 18:42:28,969 - logger_file -INFO - Browser Closed
+2020-11-02 18:42:28,985 - logger_file -INFO - End of Execution
+2020-11-04 17:05:01,327 - logger_file -INFO - Start of Execution
+2020-11-04 17:05:12,563 - logger_file -INFO - Browser opened successfully
+2020-11-04 17:05:17,565 - logger_file -INFO - Test Execution Started
+2020-11-04 17:05:27,545 - logger_file -INFO - Test was failed
+2020-11-04 17:05:27,546 - logger_file -INFO - method name: loginToHotel
+2020-11-04 17:05:27,560 - logger_file -INFO - Test was failed
+2020-11-04 17:05:27,561 - logger_file -INFO - method name: loginToHotel
+2020-11-04 17:05:27,587 - logger_file -INFO - End of Execution

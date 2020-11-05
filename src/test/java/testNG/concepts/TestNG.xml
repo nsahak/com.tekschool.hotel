@@ -1,0 +1,37 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="TestNG_Concepts">
+
+	<!--  groups>
+
+		<run>
+
+			<include name="smoke">
+
+			</include>
+
+		</run>
+
+	</groups > -->
+
+	<test name="TestNG Groups Concept">
+
+		<parameter name="url" value="http://tek-school.com/retail/" />
+		<parameter name = "userName" value = "sdet@tekschool.us" />
+		<parameter name = "password" value = "sdet" />
+		<!--   parameter name="valueB" value="200" /> -->
+
+		<classes>
+
+			<!-- class name="testNG.concepts.TestNGGroups" /> -->
+
+			<!--  class name="testNG.concepts.TestNGAnnotations" /> -->
+			<class name ="testNG.concepts.TestNGPractice"/>
+
+
+		</classes>
+
+	</test>
+
+</suite>
