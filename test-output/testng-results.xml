@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="29" started-at="2020-11-05T02:21:24Z" finished-at="2020-11-05T02:21:24Z">
+  <suite name="Default suite" duration-ms="26" started-at="2020-11-05T02:34:20Z" finished-at="2020-11-05T02:34:20Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="29" started-at="2020-11-05T02:21:24Z" finished-at="2020-11-05T02:21:24Z">
-      <class name="testNG.concepts.TestClass">
-        <test-method status="PASS" signature="test()[pri:0, instance:testNG.concepts.TestClass@6093dd95]" name="test" duration-ms="7" started-at="2020-11-05T02:21:24Z" finished-at="2020-11-05T02:21:24Z">
+    <test name="Default test" duration-ms="26" started-at="2020-11-05T02:34:20Z" finished-at="2020-11-05T02:34:20Z">
+      <class name="testNG.concepts.NewTestClass">
+        <test-method status="PASS" signature="newTestClass()[pri:0, instance:testNG.concepts.NewTestClass@6093dd95]" name="newTestClass" duration-ms="7" started-at="2020-11-05T02:34:20Z" finished-at="2020-11-05T02:34:20Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-      </class> <!-- testNG.concepts.TestClass -->
+        </test-method> <!-- newTestClass -->
+      </class> <!-- testNG.concepts.NewTestClass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
