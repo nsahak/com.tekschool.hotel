@@ -11,5 +11,9 @@ public class TestClass {
 		// These are changes made in Git Repo
 		// to pull these changes we need to fitch from upstream or use git pull command
 	}
+	
+	
+	// create a new class and push it to git repository
+	// bring some changes in that class in Git repo and pull that code back to your local repo
 
 }
